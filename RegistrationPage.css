@@ -1,0 +1,117 @@
+.indexFooter{
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.backDrop{
+    background-color: #64b6ff;
+    height: 275px;
+    margin: 25px 0px 0px 0px;
+    text-align: center;
+    padding: 100px 200px 200px 500px;
+    border-top: solid 5px grey;
+}
+.signUp{
+    width: 278px;
+    height: 350px;
+    padding-top: 18px;
+    padding-left: 25px;
+    padding-right: 0px;
+    text-align: left;
+    background-color: white;
+}
+
+#name{
+    width: 15rem;
+    padding: 5px;
+    margin: 10px 0px 5px 0px;
+
+}
+
+#uName{
+    width: 15rem;
+    padding: 5px;
+    margin: 10px 0px 5px 0px;
+}
+
+#pass{
+    width: 15rem;
+    padding: 5px;
+    margin: 10px 0px 5px 0px;
+}
+
+#cPass{
+    width: 15rem;
+    padding: 5px;
+    margin: 10px 0px 5px 0px;
+}
+
+#Register{
+    background-color: #0080ff;
+    border: thin solid #929292;
+    height: 30px;
+    width: 100px;
+    margin-top: 5px;
+    border-radius: 6px;
+    color: white;
+}
+
+#AboutUs{
+    background-color: #0080ff;
+    border: thin solid #929292;
+    height: 30px;
+    width: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+    color: white;
+    border-radius: 6px;
+}
+
+#submit{
+    background-color: #0080ff;
+    border: thin solid #929292;
+
+    width: 256px;
+    padding: 5px;
+    margin: 10px 0px 10px 0px;
+    border-radius: 6px;
+    color: white;
+}
+
+#facebook{
+    height: 30px;
+    width:30px;
+    margin: 5px;
+
+}
+
+#amazon{
+    height: 25px;
+    width:25px;
+    margin: 5px;
+
+}
+
+#instagram{
+    height: 25px;
+    width:25px;
+    margin: 5px;
+
+}
+#slack{
+    height: 30px;
+    width:30px;
+    margin: 5px;
+
+}
+
+#github{
+    height: 30px;
+    width:30px;
+    margin: 5px;
+
+}
+
+.icons{
+    text-align: center;
+}
